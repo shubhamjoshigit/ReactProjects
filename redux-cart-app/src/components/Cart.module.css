@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    margin: 5rem;
+}
+.cart{
+    background-color: lightblue;
+    border: 1px solid blue;
+    border-radius: 6px;
+}
+.add{
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+    margin: 1.5rem;
+    height: 5vh;
+    width: 10vw;
+    font-weight: bolder;
+    border: none;
+    box-shadow: 0 0 0.2px 0 rgba(0,0,0.26,0);
+}
+.rem{
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    margin: 1.5rem;
+    height: 5vh;
+    width: 10vw;
+    font-weight: bolder;
+    border: none;
+    box-shadow: 0 0 0.2px 0 rgba(0,0,0.26,0);
+}

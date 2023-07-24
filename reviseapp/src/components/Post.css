@@ -1,0 +1,10 @@
+.post-container{
+    text-align: center;
+    width: 24vw;
+    height: 28vh;
+    border: 1px solid white;
+    background-color: white;
+    margin: 15px;
+    border-radius: 8px;
+    opacity: 0.5;
+}

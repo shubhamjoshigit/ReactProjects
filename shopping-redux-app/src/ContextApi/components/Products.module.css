@@ -1,0 +1,27 @@
+.itemContainer{
+    display: inline-block;
+   justify-content: center;
+}
+button{
+    font-weight: bold;
+    color: white;
+    background-color: lightgrey;
+    width: 8vw;
+    height: 4vh;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+.item{
+    margin: 2rem;
+    border: 0.5px solid black;
+    border-radius: 6px;
+    width: 30vw;
+    height: 44vh;
+}
+.cartpic img{
+    height: 20vh;
+    width: 15vw;
+}
